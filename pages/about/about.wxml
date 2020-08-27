@@ -1,0 +1,9 @@
+<view class="container">
+  
+  <view class="title">料“食”如神   </view>
+
+  <view class="info"> </view>
+  <image  src="/images/logo.png" mode="aspectFill">  
+     </image>  
+  
+</view>

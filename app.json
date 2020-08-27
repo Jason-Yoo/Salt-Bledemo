@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/brokenline/brokenline",
+    "pages/index/index",
+    "pages/set/set"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "智能定量调料盒",
+    "navigationBarTextStyle": "black",
+     "enablePullDownRefresh": false,
+    "disableScroll": false
+  },
+  "tabBar": {
+    "color": "#c0c0c0",
+    "selectedColor": "#0808dd",
+    "list": [
+
+      {
+        "pagePath": "pages/brokenline/brokenline",
+        "text": "科学控量",
+        "iconPath": "images/icon-home-brokenline.png",
+        "selectedIconPath": "images/icon-home-brokenline.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "设备信息",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home-select.png"
+      }
+  
+    ]
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
