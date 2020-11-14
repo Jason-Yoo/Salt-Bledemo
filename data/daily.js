@@ -28,10 +28,7 @@ visitTrend = [
     "ref_date": "20200707",
     "visit_uv": 6,
   },
-  {
-    "ref_date": "20200708",
-    "visit_uv": 7,
-  },
+ 
 ];
 
 // for(let t=8;t<10;t++){
